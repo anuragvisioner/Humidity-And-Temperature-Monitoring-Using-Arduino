@@ -36,5 +36,4 @@ To set up the project:
 
 This project enables real-time monitoring and control of environmental conditions using IoT technology.
 
-Author's prototype:
-![Prototype](insert_image_url_here)
+
